@@ -1,0 +1,22 @@
+[
+ {"id":"main-gate","name":"Main Gate","category":"gate","lat":0.51455,"lng":35.27745,"description":"Main entrance to Eldoret National Polytechnic.","entrance_note":"Start at the main entrance on the Eldoret–Kapsabet Road."},
+ {"id":"place-02","name":"TODO 02","category":"lecture_hall","lat":0.51472,"lng":35.27778,"description":"Placeholder campus location. Replace with a surveyed place.","entrance_note":"TODO: confirm the public entrance."},
+ {"id":"place-03","name":"TODO 03","category":"library","lat":0.5149,"lng":35.27815,"description":"Placeholder campus location. Replace with a surveyed place.","entrance_note":"TODO: confirm the public entrance."},
+ {"id":"place-04","name":"TODO 04","category":"admin","lat":0.5151,"lng":35.27845,"description":"Placeholder campus location. Replace with a surveyed place.","entrance_note":"TODO: confirm the public entrance."},
+ {"id":"place-05","name":"TODO 05","category":"canteen","lat":0.51522,"lng":35.2781,"description":"Placeholder campus location. Replace with a surveyed place.","entrance_note":"TODO: confirm the public entrance."},
+ {"id":"place-06","name":"TODO 06","category":"lab","lat":0.51535,"lng":35.27778,"description":"Placeholder campus location. Replace with a surveyed place.","entrance_note":"TODO: confirm the public entrance."},
+ {"id":"place-07","name":"TODO 07","category":"workshop","lat":0.51555,"lng":35.27755,"description":"Placeholder campus location. Replace with a surveyed place.","entrance_note":"TODO: confirm the public entrance."},
+ {"id":"place-08","name":"TODO 08","category":"hostel","lat":0.5158,"lng":35.27785,"description":"Placeholder campus location. Replace with a surveyed place.","entrance_note":"TODO: confirm the public entrance."},
+ {"id":"place-09","name":"TODO 09","category":"sports","lat":0.5159,"lng":35.27835,"description":"Placeholder campus location. Replace with a surveyed place.","entrance_note":"TODO: confirm the public entrance."},
+ {"id":"place-10","name":"TODO 10","category":"toilets","lat":0.51565,"lng":35.27855,"description":"Placeholder campus location. Replace with a surveyed place.","entrance_note":"TODO: confirm the public entrance."},
+ {"id":"place-11","name":"TODO 11","category":"other","lat":0.51542,"lng":35.27845,"description":"Placeholder campus location. Replace with a surveyed place.","entrance_note":"TODO: confirm the public entrance."},
+ {"id":"place-12","name":"TODO 12","category":"lecture_hall","lat":0.5151,"lng":35.2788,"description":"Placeholder campus location. Replace with a surveyed place.","entrance_note":"TODO: confirm the public entrance."},
+ {"id":"place-13","name":"TODO 13","category":"lab","lat":0.51485,"lng":35.27875,"description":"Placeholder campus location. Replace with a surveyed place.","entrance_note":"TODO: confirm the public entrance."},
+ {"id":"place-14","name":"TODO 14","category":"workshop","lat":0.5146,"lng":35.27852,"description":"Placeholder campus location. Replace with a surveyed place.","entrance_note":"TODO: confirm the public entrance."},
+ {"id":"place-15","name":"TODO 15","category":"hostel","lat":0.51438,"lng":35.27825,"description":"Placeholder campus location. Replace with a surveyed place.","entrance_note":"TODO: confirm the public entrance."},
+ {"id":"place-16","name":"TODO 16","category":"admin","lat":0.51425,"lng":35.27792,"description":"Placeholder campus location. Replace with a surveyed place.","entrance_note":"TODO: confirm the public entrance."},
+ {"id":"place-17","name":"TODO 17","category":"canteen","lat":0.51418,"lng":35.27758,"description":"Placeholder campus location. Replace with a surveyed place.","entrance_note":"TODO: confirm the public entrance."},
+ {"id":"place-18","name":"TODO 18","category":"sports","lat":0.51435,"lng":35.27725,"description":"Placeholder campus location. Replace with a surveyed place.","entrance_note":"TODO: confirm the public entrance."},
+ {"id":"place-19","name":"TODO 19","category":"toilets","lat":0.51475,"lng":35.27715,"description":"Placeholder campus location. Replace with a surveyed place.","entrance_note":"TODO: confirm the public entrance."},
+ {"id":"place-20","name":"TODO 20","category":"other","lat":0.51505,"lng":35.27718,"description":"Placeholder campus location. Replace with a surveyed place.","entrance_note":"TODO: confirm the public entrance."}
+]
